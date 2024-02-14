@@ -1,0 +1,19 @@
+                                                      ------Tool And Technologies------
+
+---1.C#
+---2.Visual Studio
+---3.MS-SQL
+
+->.C# 
+In this project I have used C# because C# is an object oriented programming language.
+and I have used the main concept of c#. 
+For user interface I have used C#  framework because this is the top framework of C# for developing desktop applications.
+->.Visual Studio
+For developing the project I have used the top best Platform
+i.e. Visual Studio because this Platform has many build in tools and you can easily make the hierarchy of project and download the desire tools.
+
+->.MS-SQL
+I have used SQL in my project.
+Structured Query Language (SQL) is a standardized programming language that is used to manage relational databases.
+and perform various operations on the data in them.
+
